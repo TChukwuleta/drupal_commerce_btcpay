@@ -5,11 +5,11 @@ Introducing BTCPay Server payment module for [Drupal Commerce 2.x](https://www.d
 BTCPay Server supports a wide range of cryptocurrencies, with the potential for future extensions. Here are the currencies you can use now on BTCPay Server:
 
 - BTC (Bitcoin)
-- Bitcoin layer-two network (the lightning network) for fast and zero/low-fee transactions
+- Bitcoin layer-two network (the Lightning Network) for fast and zero/low-fee transactions
 - Altcoins with full node integration including coins like Monero (XMR) and Litecoin (LTC).
 - Other Major Altcoins: Supported through plugins via platforms such as [Trocador](https://docs.btcpayserver.org/Trocador/), [SideShift](https://docs.btcpayserver.org/SideShift/), and FixedFloat.
 
-Want to accept Bitcoin on your drupal commerce store? Visit the [project page on Drupal.org](https://drupal.org/project/commerce_btcpay)
+Want to accept Bitcoin on your Drupal Commerce store? Visit the [project page on Drupal.org](https://drupal.org/project/commerce_btcpay)
 
 ## Demo store
 A Drupal Commerce demo store connected with a (testnet) BTCPay Server where you can try the checkout (Bitcoin + Lightning Network) can be found here:   
